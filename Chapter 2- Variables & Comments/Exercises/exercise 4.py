@@ -1,4 +1,4 @@
-fav_num = 17
-msg = f"My favorite number is {fav_num}."
+my_favnum = 17
+message = f"My favorite number is {my_favnum}."
 
-print(msg)
+print(message)

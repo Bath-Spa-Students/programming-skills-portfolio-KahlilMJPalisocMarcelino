@@ -1,13 +1,13 @@
-name = "\tKahlil Marcelino\n"
+persons_name = "\tKahlil Marcelino\n"
 
 print("Unmodified:")
-print(name)
+print(persons_name)
 
 print("\nUsing lstrip():")
-print(name.lstrip())
+print(persons_name.lstrip())
 
 print("\nUsing rstrip():")
-print(name.rstrip())
+print(persons_name.rstrip())
 
 print("\nUsing strip():")
-print(name.strip())
+print(persons_name.strip())
