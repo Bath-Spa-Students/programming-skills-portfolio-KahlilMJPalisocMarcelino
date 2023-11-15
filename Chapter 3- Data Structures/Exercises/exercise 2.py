@@ -1,10 +1,10 @@
-names = ['John', 'Johnny', 'Juan']
+person = ['John', 'Johnny', 'Juan']
 
-msg = f"Hello {names[0].title()}!"
-print(msg)
+message = f"Hello {person[0].title()}!"
+print(message)
 
-msg = f"Welcome Home, {names[1].title()}!"
-print(msg)
+message= f"Welcome Home, {person[1].title()}!"
+print(message)
 
-msg = f"Magandang umaga sa iyo, {names[2].title()}!"
-print(msg)
+message = f"Magandang umaga sa iyo, {person[2].title()}!"
+print(message)

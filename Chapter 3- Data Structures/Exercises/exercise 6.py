@@ -52,7 +52,7 @@ name = guests[5].title()
 print(f"{name}, we hope you can come to dinner this Saturday.")
 
 # It has called to our attention that some cannot reach on time!
-print("\n=We are deeply sorry but we must inform you that we can only invite 2 people to dinner.")
+print("\nWe are deeply sorry but we must inform you that we can only invite 2 people to dinner.")
 
 name = guests.pop()
 print(f"Our sincerest apologies, {name.title()} unfortunately there is no more room at the table.")

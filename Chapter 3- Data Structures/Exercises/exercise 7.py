@@ -1,31 +1,31 @@
-locations = ['Philippines', 'Canada', 'Japan', 'Singapore', 'America']
+countries = ['Philippines', 'Canada', 'Japan', 'Singapore', 'America']
 print("Original order:")
-print(locations)
+print(countries)
 
 print("\nAlphabetical:")
-print(sorted(locations))
+print(sorted(countries))
 
 print("\nOriginal order:")
-print(locations)
+print(countries)
 
 print("\nReverse alphabetical:")
-print(sorted(locations, reverse=True))
+print(sorted(countries, reverse=True))
 
 print("\nOriginal order:")
-print(locations)
+print(countries)
 
 print("\nReversed:")
-locations.reverse()
-print(locations)
+countries.reverse()
+print(countries)
 
 print("\nOriginal order:")
-locations.reverse()
-print(locations)
+countries.reverse()
+print(countries)
 
 print("\nAlphabetical")
-locations.sort()
-print(locations)
+countries.sort()
+print(countries)
 
 print("\nReverse alphabetical")
-locations.sort(reverse=True)
-print(locations)
+countries.sort(reverse=True)
+print(countries)
